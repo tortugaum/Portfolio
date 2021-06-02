@@ -790,7 +790,7 @@ footer .footer-container {
     min-height: 250px;
   }
   .tecnologias .table-tech .tech-item {
-    margin-top: 1em;
+    padding-top: 1em;
   }
 }
 
